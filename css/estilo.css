@@ -1,0 +1,119 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    border: 1px solid #bbb;
+}
+
+/* Seção A */
+
+header {
+    border-bottom: 1px solid #bbb;
+    padding: 20px;
+    margin-bottom: 5px;
+    color: #414040;
+}
+
+/* Final Seção A */
+
+/* Seção B */
+
+nav {
+    width: 289px;
+    float: left;
+    line-height: 35px;
+    text-decoration: none;
+    color: #808080;
+    padding: 15px;
+}
+
+/* Final Seção B */
+
+/* Início Cardápio */
+
+section {
+    width: 610px;
+    float: right;
+    padding: 15px;
+    border-left: 1px solid #bbb;
+    color: #414040;
+    margin-bottom: 30px;
+}
+
+
+.texto-menu {
+    margin-left: 10px;
+}
+
+.foto-menu {
+    float: right;
+    border: 1px solid #bbb;
+    margin:5px 5px ;
+}
+
+/* Final Cardápio */
+
+/* Início Footer */
+
+footer {
+    padding: 20px;
+    overflow: hidden;
+    clear:both;
+    background-color: #d6d6d6;
+}
+
+#logo {
+    width: 250px;
+    float: left;
+    margin-left: 10px;
+    
+}
+
+#redes-sociais {
+    float: right;
+    margin-right: 10px;
+    line-height: 25px;
+}
+
+/* Final Footer */
+
+/* Links */
+
+.menu {
+    text-decoration: none;
+    color: #5c5b5b;
+}
+
+.voltar {
+    text-decoration: none;
+    color: #414040;
+    font-weight: bold;
+}
+
+#contato {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.redes {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#voltar-home {
+    text-decoration: none;
+    color: #414040;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #d64e1c;
+}
+
+
+
+
+
+
